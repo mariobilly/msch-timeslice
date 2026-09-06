@@ -1,0 +1,19 @@
+[project]
+name = "msch-timeslice"
+version = "0.1.0"
+description = "Temporal displacement of video bands and cubes with time-offset color ramps, RGB spread and jitter."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = ["numpy", "torch", "opencv-python"]
+
+[project.urls]
+Repository = "https://github.com/mariobilly/msch-timeslice"
+Documentation = "https://github.com/mariobilly/msch-timeslice/blob/main/docs/NODES.md"
+"Bug Tracker" = "https://github.com/mariobilly/msch-timeslice/issues"
+
+[tool.comfy]
+# Set to the publisher ID you own at registry.comfy.org before publishing.
+PublisherId = ""
+DisplayName = "MSCH TimeSlice"
+
