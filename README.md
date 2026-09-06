@@ -4,9 +4,11 @@ Temporal displacement of video bands and cubes with time-offset color ramps, RGB
 
 [Node reference](docs/NODES.md) · [Example workflows and results](examples/README.md) · [Publishing guide](PUBLISHING.md)
 
-![Actual demo output](examples/results/demo.png)
+<!-- MSCH SHOWCASE -->
+[![MSCH TimeSlice showcase](examples/showcase/outputs/robot_vertical_chroma_rainbow_00001_preview.jpg)](examples/showcase/README.md)
 
-[Play / download the rendered demo](examples/results/demo.mp4)
+**[View the showcase: videos, images and workflows](examples/showcase/README.md)**
+<!-- /MSCH SHOWCASE -->
 
 ## Included nodes
 
